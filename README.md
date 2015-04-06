@@ -1,2 +1,2 @@
 # dotfiles
-i like rice
+
